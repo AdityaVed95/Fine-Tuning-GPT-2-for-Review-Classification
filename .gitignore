@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Generated model artifacts
+*.safetensors
+gpt2-imdb-checkpoints/
+
+# macOS metadata
+.DS_Store
